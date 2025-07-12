@@ -38,7 +38,7 @@ Additional calculated metrics include:
 
 - **Sign-Up Rate** = Sign-Ups / Clicks
 
-- **Cost Per Sign-Up** = Total Ad Spend / Sign-Ups
+- Cost Per Sign-Up = Total Ad Spend / Sign-Ups
 
 ## 3. Executive Summary
 The key business question was:
@@ -50,6 +50,7 @@ After cleaning and analyzing the data, I built an interactive Tableau dashboard 
 Here are the most notable findings:
 
 Regional Performance
+
 The **South region** had the lowest **average sign-up rate** at **5.56%**.
 
 Other **regions** performed marginally better:
@@ -61,6 +62,7 @@ Other **regions** performed marginally better:
 - **Midwest**: **5.63%**
 
 **Gender** Segment Performance
+
 **Male** users had the lowest **average sign-up rate** at **5.56%**.
 
 Other **genders** performed marginally better:
