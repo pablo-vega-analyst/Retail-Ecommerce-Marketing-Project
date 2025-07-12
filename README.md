@@ -3,7 +3,7 @@
 ## 1. Background and Overview
 As a data analyst at our retail company, I was tasked with identifying areas where our e-commerce marketing efforts are falling short. Specifically, I was asked to determine which **regions** and **customer segments**, **gender** in this case, are underperforming in terms of **sign-up rate**.
 
-This project involved cleaning (scrpit [here.](https://github.com/pablo-vega-analyst/Retail-Ecommerce-Marketing-Project/blob/main/retail_ecommerece_marketing_data_cleaning.sql)) and analyzing (script [here.](https://github.com/pablo-vega-analyst/Retail-Ecommerce-Marketing-Project/blob/main/retail_ecommerce_marketing_data_analysis.sql) marketing campaign data, followed by creating a Tableau dashboard to visualize performance trends. The final recommendation helps guide our strategy toward improving **sign-up rates** for underperformaing audience segments.
+This project involved cleaning (scrpit [here](https://github.com/pablo-vega-analyst/Retail-Ecommerce-Marketing-Project/blob/main/retail_ecommerece_marketing_data_cleaning.sql)) and analyzing (script [here](https://github.com/pablo-vega-analyst/Retail-Ecommerce-Marketing-Project/blob/main/retail_ecommerce_marketing_data_analysis.sql)) marketing campaign data, followed by creating a Tableau dashboard to visualize performance trends. The final recommendation helps guide our strategy toward improving **sign-up rates** for underperformaing audience segments.
 
 ## 2. Data Structure Overview
 The dataset contains marketing data from our e-commerce platform, with each row representing a unique combination of campaign activity on a given date, segmented by key attributes. The columns include:
