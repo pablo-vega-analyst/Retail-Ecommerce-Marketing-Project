@@ -72,4 +72,4 @@ Other genders performed marginally better:
 - Non-Binary: 5.62%
 
 ## 5. Recommendations
-The region and gender that have the lowest sign-up rate are the south and males, but both of these customer segments are only lower than their top-performing counterparts by one tenth and two tenths of a percent, respectively. My recommendation would be to work with the marketing team, investigate marketing campaigns aimed at the South region and female users, and see if there is room to adjust ads in a way that is more compelling to these audience segments.
+The region and gender that have the lowest sign-up rates are the south and males, but both of these customer segments are only lower than their top-performing counterparts by one tenth and two tenths of a percent, respectively. My recommendation would be to work with the marketing team, investigate marketing campaigns aimed at the South region and female users, and see if there is room to adjust ads in a way that is more compelling to these audience segments.
