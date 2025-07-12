@@ -46,6 +46,8 @@ Which **regions** or **customer segments** are underperforming in terms of **sig
 
 After cleaning and analyzing the data, I built an interactive Tableau dashboard that visualizes **average sign-up rates** across both **region** and **gender**, over time and in aggregate.
 
+![Tableau Dashboard](dashboard_screenshot.png)
+
 ## 4. Insights Deep Dive
 Here are the most notable findings:
 
