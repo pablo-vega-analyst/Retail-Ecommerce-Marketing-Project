@@ -1,4 +1,4 @@
--- Analyzing Levis Ecommerce Marketing Dataset
+-- Analyzing Retail Ecommerce Marketing Dataset
 
 -- Step 1. Create New Column for Sign-Up Rate
 
