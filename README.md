@@ -49,7 +49,7 @@ After cleaning and analyzing the data, I built an interactive Tableau dashboard 
 ## 4. Insights Deep Dive
 Here are the most notable findings:
 
-Regional Performance
+**Regional** Performance
 
 The **South region** had the lowest **average sign-up rate** at **5.56%**.
 
