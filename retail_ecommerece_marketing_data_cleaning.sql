@@ -1,4 +1,4 @@
--- Cleaning Levis Ecommerce Marketing Dataset
+-- Cleaning Retail Ecommerce Marketing Dataset
 
 -- Step 1. Take a Look the Dataset
 
