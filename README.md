@@ -48,7 +48,7 @@ After cleaning and analyzing the data, I built an interactive Tableau dashboard 
 
 View the interactive dashboard [here](https://public.tableau.com/app/profile/pablo.vega1512/viz/RetailE-commerceMarketingData/Dashboard1)
 
-![Tableau Dashboard](dashboard_screenshot.png).
+![Tableau Dashboard](dashboard_screenshot.png) .
 
 ## 4. Insights Deep Dive
 Here are the most notable findings:
