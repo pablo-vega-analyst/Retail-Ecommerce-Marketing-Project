@@ -1,7 +1,7 @@
 # Retail E-Commerce Marketing Analysis
 
 ## 1. Background and Overview
-As a data analyst at our retail company, I was tasked with identifying areas where our e-commerce marketing efforts are falling short. Specifically, I was asked to determine which **regions** and customer segments, **gender** in this case, are underperforming in terms of **sign-up rate**.
+As a data analyst at our retail company, I was tasked with identifying areas where our e-commerce marketing efforts are falling short. Specifically, I was asked to determine which **regions** and **customer segments**, **gender** in this case, are underperforming in terms of **sign-up rate**.
 
 This project involved cleaning and analyzing marketing campaign data, followed by creating a Tableau dashboard to visualize performance trends. The final recommendation helps guide our strategy toward improving **sign-up rates** for underperformaing audience segments.
 
@@ -42,7 +42,7 @@ Additional calculated metrics include:
 
 ## 3. Executive Summary
 The key business question was:
-Which regions or customer segments are underperforming in terms of **sign-up rate**?
+Which **regions** or **customer segments** are underperforming in terms of **sign-up rate**?
 
 After cleaning and analyzing the data, I built an interactive Tableau dashboard that visualizes **average sign-up rates** across both **region** and **gender**, over time and in aggregate.
 
@@ -74,4 +74,4 @@ Other **genders** performed marginally better:
 - **Non-Binary**: **5.62%**
 
 ## 5. Recommendations
-The **region** and **gender** that have the lowest **average sign-up rates** are the **South region** and **males**, but the **avaerage sign-rates** of both of these customer segments are only lower than their top-performing counterparts by one tenth and two tenths of a percent, respectively. My recommendation would be to work with the marketing team, investigate marketing campaigns aimed at the **South region** and **male** users, and see if there is room to adjust ads in a way that is more compelling to these audience segments.
+The **region** and **gender** that have the lowest **average sign-up rates** are the **South region** and **males**, but the **average sign-up rates** of both of these customer segments are only lower than their top-performing counterparts by one tenth and two tenths of a percent, respectively. My recommendation would be to work with the marketing team, investigate marketing campaigns aimed at the **South region** and **male** users, and see if there is room to adjust ads in a way that is more compelling to these audience segments.
