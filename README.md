@@ -53,9 +53,9 @@ View the interactive dashboard [here.](https://public.tableau.com/app/profile/pa
 ## 4. Insights Deep Dive
 Here are the most notable findings:
 
-**Regional** Performance
+### **Regional** Performance
 
-The **South region** had the lowest **average sign-up rate** at **5.56%**.
+The **South region** had the **lowest average sign-up rate** at **5.56%**.
 
 Other **regions** performed marginally better:
 
@@ -65,9 +65,9 @@ Other **regions** performed marginally better:
 
 - **Midwest**: **5.63%**
 
-**Gender** Segment Performance
+### **Gender** Segment Performance
 
-**Male** users had the lowest **average sign-up rate** at **5.56%**.
+**Male** users had the **lowest average sign-up rate** at **5.56%**.
 
 Other **genders** performed marginally better:
 
